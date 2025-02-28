@@ -11,3 +11,7 @@ This project involves the development of a smart enclosure designed to provide i
 - **User Interaction:** Button inputs enable direct control of the system's functionalities.
 
 This project combines embedded systems, IoT, and smart automation to create a unique solution for plant care experimentation, while also serving as a platform for further innovations in controlled-environment horticulture.
+
+## Project Image
+<img src="https://github.com/lacey1025/Embedded-Systems-Final-Project/blob/main/plant-enclosure.jpeg" alt="Plant Enclosure" width="400">
+
